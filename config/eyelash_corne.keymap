@@ -20,9 +20,10 @@
 };
 
 &mmv {
-    time-to-max-speed-ms = <500>;
+    time-to-max-speed-ms = <200>;
     acceleration-exponent = <1>;
-    trigger-period-ms = <16>;
+    trigger-period-ms = <8>;
+    delay-ms = <0>;
 };
 
 &soft_off { hold-time-ms = <2000>; };
