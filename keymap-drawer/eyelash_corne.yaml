@@ -36,7 +36,7 @@ layers:
   - V
   - B
   - PLAY PAUSE
-  - Gui+$$mdi:keyboard-space$$
+  - Ctl+$$mdi:keyboard-space$$
   - N
   - M
   - {t: ',', s: <}
